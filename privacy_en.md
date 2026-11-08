@@ -1,6 +1,6 @@
 # Yūgen — Privacy Policy
 
-Last updated: 7 November 2026
+Last updated: 8 November 2026
 
 Yūgen is a map of places where you can observe unusual natural and human phenomena. This policy explains what data the app uses, where it goes and what you can do about it.
 
@@ -9,7 +9,7 @@ The app is developed by Matlaeva Anastasiia ("we"). Contact: yugen.anastasiia@gm
 ## The short version
 
 - You can use Yūgen without an account. Everything you mark then stays on your device.
-- Your location and motion are processed on your device. Your coordinates are never sent to us or to anyone else.
+- Your location and motion are processed on your device. Your coordinates are not sent to us or to anyone else. The exception is walk routes you record yourself: if you are signed in, they are saved to your account.
 - If you sign in, we sync the places you mark and the things you create, so you can restore them on another device.
 - No advertising, no tracking, no analytics, no selling of data.
 - You can delete your account and your synced data inside the app at any time.
@@ -19,7 +19,7 @@ The app is developed by Matlaeva Anastasiia ("we"). Contact: yugen.anastasiia@gm
 Without signing in, all of this stays on your iPhone:
 
 - places you mark as visited, saved or planned, visit dates and notes;
-- your collections, routes, goals and places you add yourself;
+- your collections, routes, goals, places you add yourself and recorded walks;
 - discoveries and opened categories;
 - location-based evidence that you were at a place (coordinates, accuracy, time). This always stays on the device, even if you sign in.
 
@@ -27,9 +27,9 @@ You can export a backup file from the app and import it again. The backup file i
 
 ## 2. Location and motion
 
-**Location.** With your permission, Yūgen uses your location to show places near you and to confirm that you are really at a place when you mark it as visited. The coordinates are processed on your device and are not sent anywhere. You can turn location access off in iOS Settings; the app keeps working, but nearby places and confirmed visits will not be available.
+**Location.** With your permission, Yūgen uses your location to show places near you and to confirm that you are really at a place when you mark it as visited. The coordinates are processed on your device and are not sent anywhere (except walks you record, see below). You can turn location access off in iOS Settings; the app keeps working, but nearby places and confirmed visits will not be available.
 
-**Walks.** If you start a walk yourself, Yūgen records its route, including while the screen is locked, to show the path you took and the places nearby. Background location runs only during a walk and stops when you end it. Walk routes are stored only on your device and are not synced.
+**Walks.** If you start a walk yourself, Yūgen records its route, including while the screen is locked, to show the path you took and the places nearby. Background location runs only during a walk and stops when you end it. Walk routes are stored on your device and, if you are signed in, in your account too (see section 3), so they are not lost when you change phones.
 
 **Motion.** With your permission, Yūgen reads motion activity (walking, in transport, still) to suggest places when you are on foot and to stay quiet while you travel. This data is processed only on your device and is not stored or sent.
 
@@ -41,9 +41,10 @@ When you sign in, we receive and store:
 
 - the email address and name that Apple shares when you sign in (you can hide your email with Apple’s “Hide My Email”), and a technical user ID;
 - the places you mark (visited, saved, planned, discovered) with dates;
-- your visit notes, goals, routes, collections, places you added yourself (including the coordinates you set for them), memory notes and discovery progress.
+- your visit notes, goals, routes, collections, places you added yourself (including the coordinates you set for them), memory notes and discovery progress;
+- recorded walks: the route line (coordinates and time of its points), duration, distance and the places you passed.
 
-We do **not** sync your device's location history or the coordinates recorded when you confirm a visit.
+Apart from walks you start yourself, we do **not** sync your device's location history or the coordinates recorded when you confirm a visit.
 
 We use this data only to keep your marks in sync between your devices and to restore them. Legal basis (where GDPR applies): performance of the service you asked for.
 
