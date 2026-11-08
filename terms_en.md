@@ -1,6 +1,6 @@
 # Yūgen — Terms of Use
 
-Last updated: 7 November 2026
+Last updated: 8 November 2026
 
 These terms apply to the Yūgen app, developed by Matlaeva Anastasiia ("we"). By using the app you accept these terms together with Apple's Licensed Application End User License Agreement (<https://www.apple.com/legal/internet-services/itunes/dev/stdeula/>). Where they differ, Apple's agreement prevails for matters it covers.
 
@@ -41,8 +41,6 @@ The app is provided "as is". To the extent permitted by law, we are not liable f
 
 We may update the app and these terms. If the changes are significant, we will tell you in the app. You can stop using the app at any time.
 
-## 9. Law and contact
-
-These terms are governed by the laws of the Russian Federation, without prejudice to the mandatory consumer protection rules of the country where you live.
+## 9. Contact
 
 Contact: yugen.anastasiia@gmail.com.

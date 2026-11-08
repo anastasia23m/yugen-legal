@@ -1,6 +1,6 @@
 # Yūgen — Conditions d’utilisation
 
-Dernière mise à jour : 7 novembre 2026
+Dernière mise à jour : 8 novembre 2026
 
 Ces conditions s’appliquent à l’application Yūgen, développée par Matlaeva Anastasiia (« nous »). En utilisant l’application, vous acceptez ces conditions ainsi que le Contrat de licence d’utilisateur final d’Apple (<https://www.apple.com/legal/internet-services/itunes/dev/stdeula/>). En cas de divergence, le contrat d’Apple prévaut pour les questions qu’il couvre.
 
@@ -41,8 +41,6 @@ L’application est fournie « en l’état ». Dans la mesure permise par la lo
 
 Nous pouvons mettre à jour l’application et ces conditions. Nous vous informerons dans l’application des changements importants. Vous pouvez cesser d’utiliser l’application à tout moment.
 
-## 9. Droit applicable et contact
-
-Ces conditions sont régies par le droit de la Fédération de Russie, sans préjudice des règles impératives de protection des consommateurs du pays où vous résidez.
+## 9. Contact
 
 Contact : yugen.anastasiia@gmail.com.
