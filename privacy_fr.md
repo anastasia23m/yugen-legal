@@ -1,6 +1,6 @@
 # Yūgen — Politique de confidentialité
 
-Dernière mise à jour : 8 novembre 2026
+Dernière mise à jour : 9 novembre 2026
 
 Yūgen est une carte de lieux où l’on peut observer de ses propres yeux des phénomènes naturels et humains inhabituels. Cette politique explique quelles données l’application utilise, où elles vont et ce que vous pouvez en faire.
 
@@ -18,12 +18,12 @@ L’application est développée par Matlaeva Anastasiia (« nous »). Contact :
 
 Sans connexion, tout reste sur votre iPhone :
 
-- les lieux marqués comme visités, enregistrés ou prévus, les dates de visite et les notes ;
-- vos collections, itinéraires, objectifs, les lieux que vous ajoutez vous-même et vos promenades enregistrées ;
-- vos découvertes et les catégories débloquées ;
+- les lieux marqués comme visités ou ajoutés aux favoris, les dossiers de favoris, les dates de visite et les notes ;
+- le nom et l’image de profil choisis dans Mon Yūgen ;
+- vos itinéraires, les lieux que vous ajoutez vous-même et vos promenades enregistrées ;
+- les catégories débloquées et les accomplissements ;
+- les lieux ouverts récemment et l’historique de recherche (sur cet appareil uniquement, jamais envoyés à votre compte ; effacés à la déconnexion) ;
 - les preuves de présence sur un lieu (coordonnées, précision, heure). Elles restent toujours sur l’appareil, même si vous êtes connecté.
-
-Vous pouvez exporter un fichier de sauvegarde depuis l’application et l’importer à nouveau. Le fichier est créé sur votre appareil ; c’est vous qui décidez où le conserver.
 
 ## 2. Position et mouvement
 
@@ -40,8 +40,9 @@ Vous pouvez vous connecter avec Apple. La connexion et la synchronisation sont a
 Quand vous vous connectez, nous recevons et conservons :
 
 - l’adresse e-mail et le nom transmis par Apple lors de la connexion (vous pouvez masquer votre adresse avec « Masquer mon adresse e-mail »), ainsi qu’un identifiant technique ;
-- les lieux que vous marquez (visités, enregistrés, prévus, découverts) avec leurs dates ;
-- vos notes de visite, objectifs, itinéraires, collections, les lieux ajoutés par vous (y compris les coordonnées que vous leur avez données), vos notes d’observation et votre progression dans les découvertes ;
+- le nom saisi dans votre profil et l’image de profil choisie (une des images intégrées ; nous ne téléversons aucune photo) ;
+- les lieux que vous marquez (visités, favoris, dossiers) avec leurs dates ;
+- vos notes de visite, itinéraires, les lieux ajoutés par vous (y compris les coordonnées que vous leur avez données) et vos notes d’observation ;
 - vos promenades enregistrées : le tracé (coordonnées et heure de ses points), la durée, la distance et les lieux devant lesquels vous êtes passé.
 
 En dehors des promenades que vous lancez vous-même, nous ne synchronisons **pas** l’historique de position de votre appareil ni les coordonnées enregistrées lors de la confirmation d’une visite.
@@ -69,8 +70,8 @@ Les données synchronisées sont conservées tant que votre compte existe. Quand
 
 ## 8. Vos choix et vos droits
 
-- **Supprimer :** Profil → Compte → Supprimer le compte. Vous pouvez supprimer uniquement le compte (données dans le cloud) ou le compte et toutes les données de cet appareil.
-- **Accéder et exporter :** via la sauvegarde dans l’application, ou en nous écrivant.
+- **Supprimer :** Mon Yūgen → Compte et synchronisation → Supprimer le compte. Vous pouvez supprimer uniquement le compte (données dans le cloud) ou le compte et toutes les données de cet appareil.
+- **Obtenir une copie de vos données :** écrivez-nous, nous vous les enverrons dans un format lisible par machine.
 - **Rectifier :** modifiez ou supprimez vos marques et notes dans l’application.
 - **Retirer vos autorisations :** la position et le mouvement peuvent être désactivés à tout moment dans les Réglages d’iOS.
 - Là où le RGPD ou des lois similaires s’appliquent, vous pouvez aussi vous opposer au traitement, en demander la limitation et introduire une réclamation auprès de votre autorité de protection des données.
