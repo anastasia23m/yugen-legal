@@ -1,6 +1,6 @@
 # Yūgen — Politique de confidentialité
 
-Dernière mise à jour : 9 novembre 2026
+Dernière mise à jour : 10 novembre 2026
 
 Yūgen est une carte de lieux où l’on peut observer de ses propres yeux des phénomènes naturels et humains inhabituels. Cette politique explique quelles données l’application utilise, où elles vont et ce que vous pouvez en faire.
 
