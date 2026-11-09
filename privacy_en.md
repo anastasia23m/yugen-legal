@@ -1,6 +1,6 @@
 # Yūgen — Privacy Policy
 
-Last updated: 9 November 2026
+Last updated: 10 November 2026
 
 Yūgen is a map of places where you can observe unusual natural and human phenomena. This policy explains what data the app uses, where it goes and what you can do about it.
 
