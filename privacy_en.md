@@ -1,6 +1,6 @@
 # Yūgen — Privacy Policy
 
-Last updated: 8 November 2026
+Last updated: 9 November 2026
 
 Yūgen is a map of places where you can observe unusual natural and human phenomena. This policy explains what data the app uses, where it goes and what you can do about it.
 
@@ -18,12 +18,12 @@ The app is developed by Matlaeva Anastasiia ("we"). Contact: yugen.anastasiia@gm
 
 Without signing in, all of this stays on your iPhone:
 
-- places you mark as visited, saved or planned, visit dates and notes;
-- your collections, routes, goals, places you add yourself and recorded walks;
-- discoveries and opened categories;
+- places you mark as visited or add to favourites, favourite folders, visit dates and notes;
+- the profile name and picture you choose in My Yūgen;
+- your routes, places you add yourself and recorded walks;
+- opened categories and achievements;
+- recently opened places and your search history (on this device only, never sent to your account; erased when you sign out);
 - location-based evidence that you were at a place (coordinates, accuracy, time). This always stays on the device, even if you sign in.
-
-You can export a backup file from the app and import it again. The backup file is created on your device; where you keep it is up to you.
 
 ## 2. Location and motion
 
@@ -40,8 +40,9 @@ You can sign in with Apple. Sign-in and sync are provided by Google Firebase (Fi
 When you sign in, we receive and store:
 
 - the email address and name that Apple shares when you sign in (you can hide your email with Apple’s “Hide My Email”), and a technical user ID;
-- the places you mark (visited, saved, planned, discovered) with dates;
-- your visit notes, goals, routes, collections, places you added yourself (including the coordinates you set for them), memory notes and discovery progress;
+- the profile name you entered and the profile picture you chose (one of the built-in pictures; we never upload photos);
+- the places you mark (visited, favourites, folders) with dates;
+- your visit notes, routes, places you added yourself (including the coordinates you set for them) and memory notes;
 - recorded walks: the route line (coordinates and time of its points), duration, distance and the places you passed.
 
 Apart from walks you start yourself, we do **not** sync your device's location history or the coordinates recorded when you confirm a visit.
@@ -69,8 +70,8 @@ Synced data is kept while your account exists. When you delete your account, you
 
 ## 8. Your choices and rights
 
-- **Delete:** Profile → Account → Delete account. You can choose to delete only the account (cloud data) or the account and all data on this device.
-- **Access and export:** use the backup export in the app, or write to us.
+- **Delete:** My Yūgen → Account and sync → Delete account. You can choose to delete only the account (cloud data) or the account and all data on this device.
+- **Get a copy of your data:** write to us and we will send it in a machine-readable form.
 - **Correction:** edit or remove your marks and notes in the app.
 - **Withdraw permissions:** location and motion can be turned off at any time in iOS Settings.
 - Where GDPR or similar laws apply, you may also object to processing, request restriction, and complain to your data protection authority.
