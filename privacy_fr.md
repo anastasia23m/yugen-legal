@@ -9,7 +9,7 @@ L’application est développée par Matlaeva Anastasiia (« nous »). Contact :
 ## En bref
 
 - Vous pouvez utiliser Yūgen sans compte. Tout ce que vous marquez reste alors sur votre appareil.
-- Votre position et vos mouvements sont traités sur votre appareil. Vos coordonnées ne sont envoyées ni à nous ni à personne. Seule exception : les tracés des promenades que vous enregistrez vous-même, conservés dans votre compte si vous êtes connecté.
+- Votre position est traitée sur votre appareil. Vos coordonnées ne sont envoyées ni à nous ni à personne. Seule exception : les tracés des promenades que vous enregistrez vous-même, conservés dans votre compte si vous êtes connecté.
 - Si vous vous connectez, nous synchronisons les lieux que vous marquez et ce que vous créez, pour que vous puissiez les retrouver sur un autre appareil.
 - Pas de publicité, pas de pistage, pas d’analytique, pas de vente de données.
 - Vous pouvez supprimer votre compte et vos données synchronisées dans l’application à tout moment.
@@ -25,13 +25,11 @@ Sans connexion, tout reste sur votre iPhone :
 - les lieux ouverts récemment et l’historique de recherche (sur cet appareil uniquement, jamais envoyés à votre compte ; effacés à la déconnexion) ;
 - les preuves de présence sur un lieu (coordonnées, précision, heure). Elles restent toujours sur l’appareil, même si vous êtes connecté.
 
-## 2. Position et mouvement
+## 2. Position
 
-**Position.** Avec votre autorisation, Yūgen utilise votre position pour afficher les lieux proches et confirmer que vous êtes bien sur place quand vous marquez un lieu comme visité. Les coordonnées sont traitées sur votre appareil et ne sont envoyées nulle part (sauf les promenades que vous enregistrez, voir ci-dessous). Vous pouvez désactiver l’accès dans les Réglages d’iOS : l’application continue de fonctionner, mais les lieux proches et les visites confirmées ne seront plus disponibles.
+**Position.** Avec votre autorisation, Yūgen utilise votre position pour afficher les lieux proches et confirmer les visites : un lieu ne compte comme visité que lorsque votre position indique que vous y êtes. Les coordonnées sont traitées sur votre appareil et ne sont envoyées nulle part (sauf les promenades que vous enregistrez, voir ci-dessous). Vous pouvez désactiver l’accès dans les Réglages d’iOS : l’application continue de fonctionner, mais les lieux proches et les visites confirmées ne seront plus disponibles.
 
 **Promenade.** Si vous lancez vous-même une promenade, Yūgen enregistre son tracé, y compris écran verrouillé, pour montrer le chemin parcouru et les lieux proches. La localisation en arrière-plan ne fonctionne que pendant la promenade et s’arrête quand vous la terminez. Les tracés des promenades sont conservés sur votre appareil et, si vous êtes connecté, aussi dans votre compte (voir section 3), pour ne pas les perdre en changeant de téléphone.
-
-**Mouvement.** Avec votre autorisation, Yūgen lit l’activité de mouvement (à pied, en transport, immobile) pour proposer des lieux quand vous marchez et rester discret en déplacement. Ces données sont traitées uniquement sur votre appareil, ni conservées ni transmises.
 
 ## 3. Compte et synchronisation (facultatif)
 
@@ -73,7 +71,7 @@ Les données synchronisées sont conservées tant que votre compte existe. Quand
 - **Supprimer :** Mon Yūgen → Compte et synchronisation → Supprimer le compte. Vous pouvez supprimer uniquement le compte (données dans le cloud) ou le compte et toutes les données de cet appareil.
 - **Obtenir une copie de vos données :** écrivez-nous, nous vous les enverrons dans un format lisible par machine.
 - **Rectifier :** modifiez ou supprimez vos marques et notes dans l’application.
-- **Retirer vos autorisations :** la position et le mouvement peuvent être désactivés à tout moment dans les Réglages d’iOS.
+- **Retirer votre autorisation :** la position peut être désactivée à tout moment dans les Réglages d’iOS.
 - Là où le RGPD ou des lois similaires s’appliquent, vous pouvez aussi vous opposer au traitement, en demander la limitation et introduire une réclamation auprès de votre autorité de protection des données.
 
 Pour exercer un droit, écrivez à yugen.anastasiia@gmail.com.
