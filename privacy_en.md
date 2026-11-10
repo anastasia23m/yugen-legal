@@ -9,7 +9,7 @@ The app is developed by Matlaeva Anastasiia ("we"). Contact: yugen.anastasiia@gm
 ## The short version
 
 - You can use Yūgen without an account. Everything you mark then stays on your device.
-- Your location and motion are processed on your device. Your coordinates are not sent to us or to anyone else. The exception is walk routes you record yourself: if you are signed in, they are saved to your account.
+- Your location is processed on your device. Your coordinates are not sent to us or to anyone else. The exception is walk routes you record yourself: if you are signed in, they are saved to your account.
 - If you sign in, we sync the places you mark and the things you create, so you can restore them on another device.
 - No advertising, no tracking, no analytics, no selling of data.
 - You can delete your account and your synced data inside the app at any time.
@@ -25,13 +25,11 @@ Without signing in, all of this stays on your iPhone:
 - recently opened places and your search history (on this device only, never sent to your account; erased when you sign out);
 - location-based evidence that you were at a place (coordinates, accuracy, time). This always stays on the device, even if you sign in.
 
-## 2. Location and motion
+## 2. Location
 
-**Location.** With your permission, Yūgen uses your location to show places near you and to confirm that you are really at a place when you mark it as visited. The coordinates are processed on your device and are not sent anywhere (except walks you record, see below). You can turn location access off in iOS Settings; the app keeps working, but nearby places and confirmed visits will not be available.
+**Location.** With your permission, Yūgen uses your location to show places near you and to confirm visits: a place counts as visited only when your location shows you are there. The coordinates are processed on your device and are not sent anywhere (except walks you record, see below). You can turn location access off in iOS Settings; the app keeps working, but nearby places and confirmed visits will not be available.
 
 **Walks.** If you start a walk yourself, Yūgen records its route, including while the screen is locked, to show the path you took and the places nearby. Background location runs only during a walk and stops when you end it. Walk routes are stored on your device and, if you are signed in, in your account too (see section 3), so they are not lost when you change phones.
-
-**Motion.** With your permission, Yūgen reads motion activity (walking, in transport, still) to suggest places when you are on foot and to stay quiet while you travel. This data is processed only on your device and is not stored or sent.
 
 ## 3. Account and sync (optional)
 
@@ -73,7 +71,7 @@ Synced data is kept while your account exists. When you delete your account, you
 - **Delete:** My Yūgen → Account and sync → Delete account. You can choose to delete only the account (cloud data) or the account and all data on this device.
 - **Get a copy of your data:** write to us and we will send it in a machine-readable form.
 - **Correction:** edit or remove your marks and notes in the app.
-- **Withdraw permissions:** location and motion can be turned off at any time in iOS Settings.
+- **Withdraw permission:** location can be turned off at any time in iOS Settings.
 - Where GDPR or similar laws apply, you may also object to processing, request restriction, and complain to your data protection authority.
 
 To exercise any right, write to yugen.anastasiia@gmail.com.
